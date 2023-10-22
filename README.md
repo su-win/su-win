@@ -1,8 +1,18 @@
 ### Hi there, Nice to meet you ! 👋<br>
-<div align="center"> Welcome to my github! <br><br>
+<div align="center"> Welcome to my github! <br><br> 
+ This is Su, recent graduate from New York University.
+</div>
+<br>
+<div>
 
- I'm Su, recent graduate from New York University. </div>
-
+- 🔍 Actively looking for job opportunities that align with my skills and interests.
+- 🚀 Eager to collaborate on meaningful projects. If you have a project in need of assistance, whether it's coding, documentation, or testing, I'd love to get involved.
+- 💼 Also open to discussing job opportunities that match with my expertise and aspirations.
+</div>
+<br>
+<div align="center">Feel free to reach out to me! 😄
+</div> 
+<br>
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdvNjJsdXdqaGJveGxkbmlibG1sZTgyYjg5a2V2YmpybXJrdW1pZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j7k6JOp8LufhXspVfu/giphy.gif" width="50%"/>
