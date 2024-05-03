@@ -1,22 +1,18 @@
 ### Hi there, Nice to meet you ! 👋<br>
-<div align="center"> Welcome to my github! <br><br> 
- This is Su, recent graduate from New York University.
+<div align="center"> 
+ This is Su!<br><br> 
 </div>
 <br>
-<div>
-
-- 🔍 Actively looking for job opportunities that align with my skills and interests.
-- 🚀 Eager to collaborate on meaningful projects. If you have a project in need of assistance, whether it's coding, documentation, or testing, I'd love to get involved.
-- 💼 Also open to discussing job opportunities that match with my expertise and aspirations.
+<div><ul><li>
+  🌱 Currently learning crochet.</li>
+<li> 🔍 Actively looking for job opportunities that align with my skills and interests.</li>
+<li> 🚀 Eager to collaborate on meaningful projects. If you have a project in need of assistance, whether it's coding, documentation, or testing, I'd love to get involved.</li>
+<li> 💼 Also open to discussing job opportunities that match with my expertise and aspirations.</li></ul>
 </div>
 <br>
 <div align="center">Feel free to reach out to me! 😄
 </div> 
 <br>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdvNjJsdXdqaGJveGxkbmlibG1sZTgyYjg5a2V2YmpybXJrdW1pZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j7k6JOp8LufhXspVfu/giphy.gif" width="50%"/>
-</div>
 
 <!--
 
@@ -34,20 +30,6 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50">
       <br>Java
     </td>
-   <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" width="50" height="50">
-      <br>Spring
-   </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="50" height="50">
-      <br>CSS
-    </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50">
-      <br>HTML
-    </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50">
       <br>Python
@@ -60,11 +42,21 @@
       <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" title="Hadoop" alt="Hadoop" width="50" height="50">
       <br>Hadoop
     </td>
+  </tr>
+ <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50" height="50">
       <br>MongoDB
     </td>
-  </tr>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="50" height="50">
+      <br>CSS
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50">
+      <br>HTML
+    </td>
+ </tr>
 </table>
 </div>
 
